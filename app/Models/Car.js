@@ -1,6 +1,4 @@
 
-
-
 export class Car {
   constructor(data) {
     // NOTE not generating an id for async

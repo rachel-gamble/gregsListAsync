@@ -84,4 +84,8 @@ export class CarsController {
     }
   }
 
+  showCars() {
+    _drawCars()
+  }
+
 }
